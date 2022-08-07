@@ -1,0 +1,114 @@
+@media (max-width: 575.98px) {
+  .head-img {
+    display: block;
+  }
+  .head {
+    font-size: 16px;
+  }
+  .para {
+    font-size: 9px;
+  }
+  .Request-Invite {
+  }
+  .img {
+    width: 9em;
+  }
+  .head-advang {
+    font-size: 2em;
+  }
+  img.photo {
+    width: 28em;
+    padding-left: 9em;
+  }
+  .advandges-easybank {
+    display: block;
+  }
+  .head-box {
+    font-size: 11px;
+  }
+  .para-advandges {
+    font-size: 11px;
+  }
+  .taital-img {
+    font-size: 13px;
+  }
+  .lasta-img {
+    display: block;
+  }
+  .taital-lasta {
+    font-size: 10px;
+    padding-top: 0%;
+    padding-bottom: 0%S;
+  }
+  .head-lesta {
+    font-size: 11px;
+    padding-bottom: 0%;
+  }
+  .sbject-lasta {
+    font-size: 10px;
+  }
+  .logolink-footer {
+    display: block;
+  }
+}
+/* Small devices (landscape phones, less than 768px)  */
+@media (max-width: 767.98px) {
+  .head-img {
+    display: block;
+  }
+  .head {
+    font-size: 22px;
+  }
+  .para {
+    font-size: 14px;
+  }
+  .Request-Invite {
+  }
+  .img {
+    width: 9em;
+  }
+  .head-advang {
+    font-size: 2em;
+  }
+  img.photo {
+    width: 28em;
+    padding-left: 9em;
+  }
+  .advandges-easybank {
+    display: block;
+  }
+  .head-box {
+    font-size: 17px;
+  }
+  .para-advandges {
+    font-size: 13px;
+  }
+  .taital-img {
+    font-size: 19px;
+  }
+  .lasta-img {
+    display: block;
+  }
+  .taital-lasta {
+    font-size: 17px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .head-lesta {
+    font-size: 11px;
+    padding-bottom: 0%;
+  }
+  .sbject-lasta {
+    font-size: 10px;
+  }
+  .logolink-footer {
+    display: block;
+  }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 10000) {
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+}
