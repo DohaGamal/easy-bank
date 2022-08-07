@@ -1,4 +1,16 @@
 @media (max-width: 575.98px) {
+  .logo-link {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .link {
+    font-size: 10px;
+  }
+  .button {
+    padding-left: 3em;
+    padding-top: 1em;
+  }
   .head-img {
     display: block;
   }
@@ -9,6 +21,7 @@
     font-size: 9px;
   }
   .Request-Invite {
+    padding: 6px 9px;
   }
   .img {
     width: 9em;
@@ -53,6 +66,18 @@
 }
 /* Small devices (landscape phones, less than 768px)  */
 @media (max-width: 767.98px) {
+  .logo-link {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .link {
+    font-size: 10px;
+  }
+  .button {
+    padding-left: 3em;
+    padding-top: 1em;
+  }
   .head-img {
     display: block;
   }
@@ -63,6 +88,7 @@
     font-size: 14px;
   }
   .Request-Invite {
+    padding: 6px 9px;
   }
   .img {
     width: 9em;
